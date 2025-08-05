@@ -1,6 +1,6 @@
 # Proyek Prediksi Cuaca dan Rekomendasi Penyiraman
 
-Proyek ini menggunakan model machine learning untuk memprediksi kondisi cuaca dan memberikan rekomendasi penyiraman untuk lahan pertanian kacang Sacha Inchi. Skrip ini diotomatisasi menggunakan GitHub Actions untuk berjalan setiap 3 jam.
+Proyek ini menggunakan model machine learning untuk memprediksi kondisi cuaca dan memberikan rekomendasi penyiraman untuk lahan pertanian kacang Sacha Inchi. Skrip ini diotomatisasi menggunakan GitHub Actions untuk berjalan
 
 ## Fitur
 - **Prediksi Cuaca:** Memprediksi suhu, kelembapan, kecepatan, dan arah angin.
