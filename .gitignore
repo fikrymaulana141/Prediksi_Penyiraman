@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# File Kredensial & Sensitif
+# Jangan pernah commit file kredensial secara langsung.
+# File firebase-credentials.json akan dibuat oleh workflow dari secret.
+*.json
+*.log
+
+# File Sistem Operasi
+.DS_Store
+Thumbs.db
+
+# File IDE
+.vscode/
+.idea/
